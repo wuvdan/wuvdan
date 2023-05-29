@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wuvdan
-- 👀 I’m interested in iOS & Vue
-- 🌱 I’m currently learning Vue & Android
+- 👀 I’m interested in iOS & Web
+- 🌱 I’m currently learning Web & Android & Flutter
 - 💞️ I’m looking to collaborate on iOS App Develop
 - 📫 How to reach me wuvdan@163.com
 
